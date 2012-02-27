@@ -21,4 +21,7 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   | 4 | Bartosz Pyrzynski    | I     | 2010 |
   | 5 | Dariusz Szmechtig    | C     | 2010 |
   | 6 | Karol Latusek        | J     | 2008 |
+  | 7 | Tomasz Gasior        | H     | 2008 |
+
+
 
