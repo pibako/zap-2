@@ -1,6 +1,7 @@
-[[http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page%3DProblem%2520Resources][Strona z zadaniami]]
+Strona z zadaniami:
+http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
 
-* Gr 10:15
+* Gr. 13 - 10:15
   |  1 | Mateusz Szmajdzinski | B | 2008 |
   |  2 | Kajetan Maliszewski  | A | 2008 |
   |  3 | Mateusz Jozwik       | E | 2008 |
@@ -12,7 +13,10 @@
   |  9 | Maciej Medrek        | J | 2009 |
   | 10 | Pawel Witek          | D | 2009 |
 
-
-* Gr. 11:15
-  | 1 |   |   |   |
+  
+* Gr. 14 - 11:15
+  | 1 | Tomasz   | Rydzlewski  | E     | 2010 |
+  | 2 | Paulina  | Mlynarska   | B     | 2009 |
+  | 3 | Radoslaw | Lawrynowicz | snake |    - |
+  | 4 |          |             |       |      |
   
