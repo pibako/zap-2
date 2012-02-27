@@ -18,5 +18,6 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   | 1 | Tomasz Rydzlewski    | E     | 2010 |
   | 2 | Paulina Mlynarska    | B     | 2009 |
   | 3 | Radoslaw Lawrynowicz | snake |    - |
-  | 4 |                      |       |      |
+  | 4 | Bartosz Pyrzynski    | I     | 2010 |
+  |   |                      |       |      |
   
