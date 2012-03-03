@@ -25,5 +25,5 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   |  7 | Tomasz Gasior        | H     | 2008 |
   |  8 | Piotr Malachowski    | K     | 2008 |
   |  9 | Andrzej Jezierski    | G     | 2009 |
-  | 10 | MArcin Wieczorek     | D     | 2010 |
+  | 10 | Marcin Wieczorek     | D     | 2010 |
 
