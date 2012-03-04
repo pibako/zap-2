@@ -28,4 +28,5 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   | 10 | Marcin Wieczorek     | D     | 2010 |
   | 11 | Daniel Stradowski    | C     | 2009 |
   | 12 | Filip Chwiecko       | E     | 2010 |
+  | 13 | Piotr Gluchowski     | F     | 2010 |
 
