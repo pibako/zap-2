@@ -26,4 +26,5 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   |  8 | Piotr Malachowski    | K     | 2008 |
   |  9 | Andrzej Jezierski    | G     | 2009 |
   | 10 | Marcin Wieczorek     | D     | 2010 |
+  | 11 | Daniel Stradowski    | C     | 2009 |
 
