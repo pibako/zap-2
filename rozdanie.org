@@ -2,33 +2,33 @@
 http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
 
 * Gr. 13 - 10:15
-  |  1 | Mateusz Szmajdzinski | B | 2008 |
-  |  2 | Kajetan Maliszewski  | A | 2008 |
-  |  3 | Mateusz Jozwik       | E | 2008 |
-  |  4 | Rafal Dzumaga        | K | 2009 |
-  |  5 | Adam Banaszczyk      | I | 2008 |
-  |  6 | Ewelina Grudzien     | F | 2008 |
-  |  7 | Robert Wargenau      | A | 2009 |
-  |  8 | Igor Kedzierski      | E | 2009 |
-  |  9 | Maciej Medrek        | J | 2009 |
-  | 10 | Pawel Witek          | D | 2009 |
-  | 11 | Katarzyna Solarz     | F | 2009 |
-  | 12 | Anna Przybylska      | C | 2008 |
-  | 13 | Michal Kobecki       | D | 2008 |
+  |  1 | Mateusz Szmajdzinski | B | 2008 |       |
+  |  2 | Kajetan Maliszewski  | A | 2008 | proto |
+  |  3 | Mateusz Jozwik       | E | 2008 | proto |
+  |  4 | Rafal Dzumaga        | K | 2009 |       |
+  |  5 | Adam Banaszczyk      | I | 2008 | proto |
+  |  6 | Ewelina Grudzien     | F | 2008 | proto |
+  |  7 | Robert Wargenau      | A | 2009 | proto |
+  |  8 | Igor Kedzierski      | E | 2009 | proto |
+  |  9 | Maciej Medrek        | J | 2009 | proto |
+  | 10 | Pawel Witek          | D | 2009 | proto |
+  | 11 | Katarzyna Solarz     | F | 2009 | proto |
+  | 12 | Anna Przybylska      | C | 2008 | proto |
+  | 13 | Michal Kobecki       | D | 2008 | proto |
 
   
 * Gr. 14 - 11:15
-  |  1 | Tomasz Rydzlewski    | G     | 2010 |
-  |  2 | Paulina Mlynarska    | B     | 2009 |
-  |  3 | Radoslaw Lawrynowicz | snake |    - |
-  |  4 | Bartosz Pyrzynski    | I     | 2010 |
-  |  5 | Dariusz Szmechtig    | C     | 2010 |
-  |  6 | Karol Latusek        | J     | 2008 |
-  |  7 | Tomasz Gasior        | H     | 2008 |
-  |  8 | Piotr Malachowski    | K     | 2008 |
-  |  9 | Andrzej Jezierski    | G     | 2009 |
-  | 10 | Marcin Wieczorek     | D     | 2010 |
-  | 11 | Daniel Stradowski    | C     | 2009 |
-  | 12 | Filip Chwiecko       | E     | 2010 |
-  | 13 | Piotr Gluchowski     | F     | 2010 |
+  |  1 | Tomasz Rydzlewski    | G     | 2010 | proto |
+  |  2 | Paulina Mlynarska    | B     | 2009 | proto |
+  |  3 | Radoslaw Lawrynowicz | snake |    - | proto |
+  |  4 | Bartosz Pyrzynski    | I     | 2010 | proto |
+  |  5 | Dariusz Szmechtig    | C     | 2010 | proto |
+  |  6 | Karol Latusek        | J     | 2008 | proto |
+  |  7 | Tomasz Gasior        | H     | 2008 | proto |
+  |  8 | Piotr Malachowski    | K     | 2008 | proto |
+  |  9 | Andrzej Jezierski    | G     | 2009 | proto |
+  | 10 | Marcin Wieczorek     | D     | 2010 | proto |
+  | 11 | Daniel Stradowski    | C     | 2009 |       |
+  | 12 | Filip Chwiecko       | E     | 2010 | proto |
+  | 13 | Piotr Gluchowski     | F     | 2010 | proto |
 
