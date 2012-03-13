@@ -1,6 +1,15 @@
 * Strona z zadaniami:
 http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
 
+* Uwaga!
+  Wiele z zadań wymaga zaimplementowania algorytmu przeszukiwania a 
+  tu znajdziecie wspaniałe wprowadzenie do tego zagadnienia: [[https://www.ai-class.com/course/video/quizquestion/17][ai-class]] - 2. Problem Solving. 
+  Zajęcia były prowadzone przez dyrektora działu badań Google . 
+
+* Uwaga 2!
+  Byłem za bardzo optymistyczny w ocenianiu czasu potrzebnego na sprawdzenie - 
+  prawdopodobnie dopiero w weekend znajdę czas.
+
 * Gr. 13 - 10:15
   |  1 | Mateusz Szmajdzinski | B | 2008 | proto |
   |  2 | Kajetan Maliszewski  | A | 2008 | proto |
