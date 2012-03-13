@@ -2,7 +2,7 @@
 http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
 
 * Gr. 13 - 10:15
-  |  1 | Mateusz Szmajdzinski | B | 2008 |       |
+  |  1 | Mateusz Szmajdzinski | B | 2008 | proto |
   |  2 | Kajetan Maliszewski  | A | 2008 | proto |
   |  3 | Mateusz Jozwik       | E | 2008 | proto |
   |  4 | Rafal Dzumaga        | K | 2009 |       |
@@ -28,7 +28,7 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   |  8 | Piotr Malachowski    | K     | 2008 | proto |
   |  9 | Andrzej Jezierski    | G     | 2009 | proto |
   | 10 | Marcin Wieczorek     | D     | 2010 | proto |
-  | 11 | Daniel Stradowski    | C     | 2009 |       |
+  | 11 | Daniel Stradowski    | C     | 2009 | proto |
   | 12 | Filip Chwiecko       | E     | 2010 | proto |
   | 13 | Piotr Gluchowski     | F     | 2010 | proto |
 
