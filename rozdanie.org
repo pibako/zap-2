@@ -14,7 +14,7 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   |  1 | Mateusz Szmajdzinski | B | 2008 | proto |
   |  2 | Kajetan Maliszewski  | A | 2008 | proto |
   |  3 | Mateusz Jozwik       | E | 2008 | proto |
-  |  4 | Rafal Dzumaga        | K | 2009 |       |
+  |  4 | Rafal Dzumaga        | K | 2009 | proto |
   |  5 | Adam Banaszczyk      | I | 2008 | proto |
   |  6 | Ewelina Grudzien     | F | 2008 | proto |
   |  7 | Robert Wargenau      | A | 2009 | proto |
