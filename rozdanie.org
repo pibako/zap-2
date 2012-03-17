@@ -23,9 +23,9 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   |  4 | Rafal Dzumaga        | K  | 2009 | 3+0=3     |          |           |               |
   |  5 | Adam Banaszczyk      | I  | 2008 | 2.5+1.5=4 |          |           |               |
   |  6 | Ewelina Grudzien     | F  | 2008 | 2.5+2=4.5 |          |           |               |
-  |  7 | Robert Wargenau      | A  | 2009 | oddany    |          |           |               |
-  |  8 | Igor Kedzierski      | E  | 2009 | oddany    |          |           |               |
-  |  9 | Maciej Medrek        | J  | 2009 | oddany    |          |           |               |
+  |  7 | Robert Wargenau      | A  | 2009 | 3+0=3     |          |           |               |
+  |  8 | Igor Kedzierski      | E  | 2009 | 2.5+1.5=4 |          |           |               |
+  |  9 | Maciej Medrek        | J  | 2009 | 2.5+2=4.5 |          |           |               |
   | 10 | Pawel Witek          | D  | 2009 | oddany    |          |           |               |
   | 11 | Katarzyna Solarz     | F  | 2009 | oddany    |          |           |               |
   | 12 | Anna Przybylska      | C  | 2008 | oddany    |          |           |               |
