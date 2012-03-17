@@ -26,8 +26,8 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   |  7 | Robert Wargenau      | A  | 2009 | 3+0=3     |          |           |               |
   |  8 | Igor Kedzierski      | E  | 2009 | 2.5+1.5=4 |          |           |               |
   |  9 | Maciej Medrek        | J  | 2009 | 2.5+2=4.5 |          |           |               |
-  | 10 | Pawel Witek          | D  | 2009 | oddany    |          |           |               |
-  | 11 | Katarzyna Solarz     | F  | 2009 | oddany    |          |           |               |
+  | 10 | Pawel Witek          | D  | 2009 | 3+1=4     |          |           |               |
+  | 11 | Katarzyna Solarz     | F  | 2009 | 3+2=5     |          |           |               |
   | 12 | Anna Przybylska      | C  | 2008 | oddany    |          |           |               |
   | 13 | Michal Kobecki       | D  | 2008 | oddany    |          |           |               |
 
