@@ -40,7 +40,7 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   |  6 | Karol Latusek        | J     | 2008 | proto     |
   |  7 | Tomasz Gasior        | H     | 2008 | 2.5+2=4.5 |
   |  8 | Piotr Malachowski    | K     | 2008 | 2+0.5=2.5 |
-  |  9 | Andrzej Jezierski    | G     | 2009 | 2+3=5     |
+  |  9 | Andrzej Jezierski    | G     | 2009 | 3+2=5     |
   | 10 | Marcin Wieczorek     | D     | 2010 | proto     |
   | 11 | Daniel Stradowski    | C     | 2009 | proto     |
   | 12 | Filip Chwiecko       | E     | 2010 | 2+0=2     |
