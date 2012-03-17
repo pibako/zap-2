@@ -18,11 +18,11 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
 * Gr. 13 - 10:15
   | ID | Imie i nazwisko      | Nr |  Rok | Projekt   | Prototyp | Aplikacja | Ocena końcowa |
   |  1 | Mateusz Szmajdzinski | B  | 2008 | 3+1.5=4.5 |          |           |               |
-  |  2 | Kajetan Maliszewski  | A  | 2008 | oddany    |          |           |               |
-  |  3 | Mateusz Jozwik       | E  | 2008 | oddany    |          |           |               |
-  |  4 | Rafal Dzumaga        | K  | 2009 | oddany    |          |           |               |
-  |  5 | Adam Banaszczyk      | I  | 2008 | oddany    |          |           |               |
-  |  6 | Ewelina Grudzien     | F  | 2008 | oddany    |          |           |               |
+  |  2 | Kajetan Maliszewski  | A  | 2008 | 3+1=4     |          |           |               |
+  |  3 | Mateusz Jozwik       | E  | 2008 | 2.5+1.5=4 |          |           |               |
+  |  4 | Rafal Dzumaga        | K  | 2009 | 3+0=3     |          |           |               |
+  |  5 | Adam Banaszczyk      | I  | 2008 | 2.5+1.5=4 |          |           |               |
+  |  6 | Ewelina Grudzien     | F  | 2008 | 2.5+2=4.5 |          |           |               |
   |  7 | Robert Wargenau      | A  | 2009 | oddany    |          |           |               |
   |  8 | Igor Kedzierski      | E  | 2009 | oddany    |          |           |               |
   |  9 | Maciej Medrek        | J  | 2009 | oddany    |          |           |               |
