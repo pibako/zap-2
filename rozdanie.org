@@ -16,33 +16,35 @@ http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Problem%20Resources
   - otrzymanie 5 punktów nie gwarantuje poprawnego rozwiązania
 
 * Gr. 13 - 10:15
-  |  1 | Mateusz Szmajdzinski | B | 2008 | 3+1.5=4.5 |
-  |  2 | Kajetan Maliszewski  | A | 2008 | proto     |
-  |  3 | Mateusz Jozwik       | E | 2008 | proto     |
-  |  4 | Rafal Dzumaga        | K | 2009 | proto     |
-  |  5 | Adam Banaszczyk      | I | 2008 | proto     |
-  |  6 | Ewelina Grudzien     | F | 2008 | proto     |
-  |  7 | Robert Wargenau      | A | 2009 | proto     |
-  |  8 | Igor Kedzierski      | E | 2009 | proto     |
-  |  9 | Maciej Medrek        | J | 2009 | proto     |
-  | 10 | Pawel Witek          | D | 2009 | proto     |
-  | 11 | Katarzyna Solarz     | F | 2009 | proto     |
-  | 12 | Anna Przybylska      | C | 2008 | proto     |
-  | 13 | Michal Kobecki       | D | 2008 | proto     |
+  | ID | Imie i nazwisko      | Nr |  Rok | Projekt   | Prototyp | Aplikacja | Ocena końcowa |
+  |  1 | Mateusz Szmajdzinski | B  | 2008 | 3+1.5=4.5 |          |           |               |
+  |  2 | Kajetan Maliszewski  | A  | 2008 | oddany    |          |           |               |
+  |  3 | Mateusz Jozwik       | E  | 2008 | oddany    |          |           |               |
+  |  4 | Rafal Dzumaga        | K  | 2009 | oddany    |          |           |               |
+  |  5 | Adam Banaszczyk      | I  | 2008 | oddany    |          |           |               |
+  |  6 | Ewelina Grudzien     | F  | 2008 | oddany    |          |           |               |
+  |  7 | Robert Wargenau      | A  | 2009 | oddany    |          |           |               |
+  |  8 | Igor Kedzierski      | E  | 2009 | oddany    |          |           |               |
+  |  9 | Maciej Medrek        | J  | 2009 | oddany    |          |           |               |
+  | 10 | Pawel Witek          | D  | 2009 | oddany    |          |           |               |
+  | 11 | Katarzyna Solarz     | F  | 2009 | oddany    |          |           |               |
+  | 12 | Anna Przybylska      | C  | 2008 | oddany    |          |           |               |
+  | 13 | Michal Kobecki       | D  | 2008 | oddany    |          |           |               |
 
   
 * Gr. 14 - 11:15
-  |  1 | Tomasz Rydzlewski    | G     | 2010 | proto     |
-  |  2 | Paulina Mlynarska    | B     | 2009 | 2+1=3     |
-  |  3 | Radoslaw Lawrynowicz | snake |    - | 3+1=4     |
-  |  4 | Bartosz Pyrzynski    | I     | 2010 | proto     |
-  |  5 | Dariusz Szmechtig    | C     | 2010 | proto     |
-  |  6 | Karol Latusek        | J     | 2008 | proto     |
-  |  7 | Tomasz Gasior        | H     | 2008 | 2.5+2=4.5 |
-  |  8 | Piotr Malachowski    | K     | 2008 | 2+0.5=2.5 |
-  |  9 | Andrzej Jezierski    | G     | 2009 | 3+2=5     |
-  | 10 | Marcin Wieczorek     | D     | 2010 | proto     |
-  | 11 | Daniel Stradowski    | C     | 2009 | proto     |
-  | 12 | Filip Chwiecko       | E     | 2010 | 2+0=2     |
-  | 13 | Piotr Gluchowski     | F     | 2010 | proto     |
+  | ID | Imie i nazwisko      | Nr    |  Rok | Projekt   | Prototyp | Aplikacja | Ocena końcowa |
+  |  1 | Tomasz Rydzlewski    | G     | 2010 | oddany    |          |           |               |
+  |  2 | Paulina Mlynarska    | B     | 2009 | 2+1=3     |          |           |               |
+  |  3 | Radoslaw Lawrynowicz | snake |    - | 3+1=4     |          |           |               |
+  |  4 | Bartosz Pyrzynski    | I     | 2010 | oddany    |          |           |               |
+  |  5 | Dariusz Szmechtig    | C     | 2010 | oddany    |          |           |               |
+  |  6 | Karol Latusek        | J     | 2008 | oddany    |          |           |               |
+  |  7 | Tomasz Gasior        | H     | 2008 | 2.5+2=4.5 |          |           |               |
+  |  8 | Piotr Malachowski    | K     | 2008 | 2+0.5=2.5 |          |           |               |
+  |  9 | Andrzej Jezierski    | G     | 2009 | 3+2=5     |          |           |               |
+  | 10 | Marcin Wieczorek     | D     | 2010 | oddany    |          |           |               |
+  | 11 | Daniel Stradowski    | C     | 2009 | oddany    |          |           |               |
+  | 12 | Filip Chwiecko       | E     | 2010 | 2+0=2     |          |           |               |
+  | 13 | Piotr Gluchowski     | F     | 2010 | oddany    |          |           |               |
 
