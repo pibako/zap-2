@@ -24,9 +24,9 @@ struct List {
 List* createList();
 
 /**
- * Funkcja dodaje na koncu listy @list element @d
+ * Funkcja dodaje na koncu listy @list element @value
  */
-void appendToList(List* list, double d);
+void appendToList(List* list, double value);
 
 /**
  * Funkcja przekazuje wartosc ostatniego elementu z listy poprzez

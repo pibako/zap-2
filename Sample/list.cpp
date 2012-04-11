@@ -7,10 +7,10 @@ List* createList() {
   return list;
 }
 
-void appendToList(List* list, double d) {
+void appendToList(List* list, double value) {
   Node *node = new Node;
   node->next = NULL;
-  node->value = d;
+  node->value = value;
 
   if (list->head == NULL) {
     list->head = node;
