@@ -46,6 +46,4 @@ bool removeLastFromList(List* list, double* value);
  * ...
  */ 
 
-#endif _LIST_H_
-
-
+#endif //_LIST_H_
